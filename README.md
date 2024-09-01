@@ -3,6 +3,7 @@ This Repo is for the BPA class to learn about contributing and version controlli
 
 ## TODO List
 - [X] start recording video
+- [X] collabruation sample person
 - [ ] contributing people
 
 ```python
